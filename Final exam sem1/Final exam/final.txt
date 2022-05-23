@@ -1,0 +1,2 @@
+R	L	C	f	React		capReact		impedance	resFreq
+10	2	100	50	628		3.18471e-05		26.9815		0.0157667

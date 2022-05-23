@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Queue.h(16,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Queue.h(16,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Stack.h(15,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Stack.h(15,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Main.cpp(166,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Main.cpp(168,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Main.cpp(200,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Queue.cpp
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Queue.h(16,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Queue.h(16,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Stack.cpp
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Stack.h(15,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Mini Project C++\Stack.h(15,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  Mini Project C++.vcxproj -> C:\Users\aleks\OneDrive - GMIT\C programming\Mini Project C++\Debug\Mini Project C++.exe

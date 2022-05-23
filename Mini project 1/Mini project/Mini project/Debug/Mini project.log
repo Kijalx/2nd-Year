@@ -1,0 +1,4 @@
+﻿  XandO_MP_Final (1).c
+C:\Users\G00396018\Downloads\XandO_MP_Final (1).c(34,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\G00396018\Downloads\XandO_MP_Final (1).c(242,16): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+  Mini project.vcxproj -> C:\Users\G00396018\OneDrive - GMIT\C programming\Mini project 1\Mini project\Debug\Mini project.exe

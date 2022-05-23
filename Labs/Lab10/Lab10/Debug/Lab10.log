@@ -1,0 +1,9 @@
+﻿  lab10b.cpp
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(26,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(27,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(28,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(32,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(33,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(34,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Lab10\lab10b.cpp(64,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab10.vcxproj -> C:\Users\G00396018\OneDrive - GMIT\C programming\Labs\Lab10\Debug\Lab10.exe
